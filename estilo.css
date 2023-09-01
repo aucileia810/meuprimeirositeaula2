@@ -1,0 +1,59 @@
+html,body{
+    margin: 0;
+}
+#imagem_fundo{
+     background: url(img/nuvem.jpg);
+     height: 100%; 
+     text-align-last: center;
+     background-size: cover;
+}
+#titulo{
+    color:rgb(241, 87, 16);
+    padding-top: 20%;
+    font-size: 50px;
+}
+#subtitulo{
+    color:rgb(241, 87, 16);
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: 30px;
+}
+
+#texto{
+    font-size: 20px;
+}   
+#acao{
+    color: rgb(241, 87, 16);
+    border: 1px;
+    padding: 20px 20px 20px 20px ;
+    font-size: 20px;
+}
+.icone{
+    width: 150px;
+}
+.section{
+    padding: 20px;
+    float: left;
+}
+#exerciciopilates{
+    background-color: aquamarine;
+    padding: 20px;
+}
+.selecao{
+    padding: 20px;
+}
+.coluna{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 80%;
+}
+.justificado{
+    text-align: justify;
+}
+.colunatres{
+    float: left;
+    padding: 0 5%;
+    position: relative;
+    width: 20%;
+}
